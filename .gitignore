@@ -4,7 +4,9 @@ frontend/.env.local
 backend/src/main/resources/application.properties
 
 # Node modules
+node_modules/
 frontend/node_modules/
+**/node_modules/
 
 # Build outputs
 backend/target/
