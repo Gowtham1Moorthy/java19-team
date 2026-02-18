@@ -1,0 +1,20 @@
+# Environment variables
+.env
+frontend/.env.local
+backend/src/main/resources/application.properties
+
+# Node modules
+frontend/node_modules/
+
+# Build outputs
+backend/target/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
